@@ -1,0 +1,29 @@
+erDiagram
+  Agency ||--o{ LaunchVehicle : builds
+  Agency ||--o{ Satellite : operates
+  LaunchVehicle ||--o{ Satellite : launches
+  Satellite ||--|| OrbitDetail : has
+  Satellite ||--o{ Mission : performs
+  Agency { int agency_id PK
+    string name
+    string country }
+  LaunchVehicle { int vehicle_id PK
+    string name
+    int agency_id FK
+    int capacity_kg }
+  Satellite { int satellite_id PK
+    string name
+    int agency_id FK
+    int vehicle_id FK
+    date launch_date
+    enum status }
+  OrbitDetail { int orbit_id PK
+    int satellite_id FK
+    int altitude_km
+    enum orbit_type }
+  Mission { int mission_id PK
+    int satellite_id FK
+    string purpose
+    date start_date
+    date expected_end_date
+    enum mission_status }
