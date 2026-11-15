@@ -1,0 +1,197 @@
+Satellite,Operator,Country,Launch Vehicle,Launch Date,Orbit Class,Altitude km,Purpose,Expected Lifetime yrs,Expected End Date,Status
+Hubble Space Telescope,ESA/NASA,ESA,Space Shuttle (STS 31),1990-04-25,LEO,557,Space Science,10.0,2000-04-24,inactive
+MSAT 2,Mobile Satellite Ventures,USA/Canada,Atlas 2A,1995-04-07,GEO,35786,Communications,10.0,2005-04-06,inactive
+TDRS-7,NASA,USA,Space Shuttle (STS 70),1995-07-13,GEO,35785,Communications,10.0,2005-07-12,inactive
+USA 135,US Air Force,USA,Delta 4,1997-10-24,GEO,35787,Communications,10.0,2007-10-24,inactive
+SCD-2,INPE,Brazil,Pegasus,1998-10-23,LEO,748,Earth Observation: Meteorology/Earth Science,3.0,2001-10-23,inactive
+Terra,NASA,USA/Canada/Japan,Atlas 2AS,1999-12-18,LEO,702,Earth Observation: Earth Science,6.0,2005-12-18,inactive
+AsiaStar,1Worldspace,USA,Ariane 5G,2000-03-21,GEO,35787,Communications,15.0,2015-03-22,inactive
+USA 149,US Air Force,USA,Titan IVB,2000-05-18,GEO,35903,Earth Observation: Infrared Imaging,9.0,2009-05-18,inactive
+TDRS-8,NASA,USA,Atlas 2A,2000-06-30,GEO,35788,Communications,11.0,2011-07-01,inactive
+Anik F1,"BCE, Inc.",Canada,Ariane 44L,2000-11-21,GEO,35786,Communications,15.0,2015-11-22,inactive
+Astra 2D,SES S.A.,Luxembourg,Ariane 5G,2000-12-19,GEO,35786,Communications,15.0,2015-12-20,inactive
+Proba 1,ESA,ESA,PSLV C3,2001-10-22,LEO,614,Technology Demonstration,2.0,2003-10-22,inactive
+Echostar 7,"Echostar Satellite Services, LLC",USA,Atlas 3B,2002-02-21,GEO,35786,Communications,12.0,2014-02-21,inactive
+TDRS-9,NASA,USA,Atlas 2A,2002-03-08,GEO,35788,Communications,11.0,2013-03-08,inactive
+JCSat 2A,Sky Perfect JSAT Corporation,Japan,Ariane 44L,2002-03-29,GEO,35791,Communications,11.0,2013-03-29,inactive
+Aqua,NASA/Partners,USA/Japan/Brazil,Delta,2002-05-04,LEO,702,Earth Observation: Earth Science,6.0,2008-05-04,inactive
+TDRS-10,NASA,USA,Atlas 2A,2002-12-04,GEO,35785,Communications,11.0,2013-12-04,inactive
+Galaxy-12,PanAmSat,USA,Ariane 5,2003-04-09,GEO,35786,Communications,15.0,2018-04-09,inactive
+Galaxy-13,PanAmSat/Sky Perfect JSAT,USA/Japan,Zenit 3,2003-10-01,GEO,35786,Communications,15.0,2018-10-01,inactive
+Swift,Goddard Space Flight Center/Penn State University,USA/United Kingdom/Italy,Delta 7320,2004-11-20,LEO,564,Space Science,7.0,2011-11-21,inactive
+XTAR-EUR,Ministry of Defense/XTAR,Spain,Ariane 5 ECA,2005-02-12,GEO,35785,Communications,15.0,2020-02-13,inactive
+182,NRO,USA,Titan 4B,2005-04-30,LEO,714,Earth Observation: Radar Imaging,9.0,2014-04-30,inactive
+NOAA-18,NOAA,USA,Delta 2,2005-05-20,LEO,854,Earth Observation: Meteorology,3.0,2008-05-20,inactive
+Thaicom-4,Thaicom Public Company Ltd.,Thailand,Ariane 5G,2005-08-11,GEO,35786,Communications,12.0,2017-08-11,inactive
+Meteosat 9,EUMETSAT,Multinational,Ariane 5G,2005-12-21,GEO,35785,Earth Observation: Earth Science/Meterology,12.0,2017-12-21,inactive
+COSMIC-B,NSPO/University,Taiwan,Minotaur-1,2006-04-15,LEO,800,Earth Observation: Meteorology,2.0,2008-04-14,inactive
+Eutelsat 113 West A,EUTELSAT Americas,Multinational,Ariane 5 ECA,2006-05-27,GEO,35786,Communications,15.0,2021-05-27,inactive
+Hinode,Institute of Space and Aeronautical Science/NASA,Multinational,JAXA M-V,2006-10-22,LEO,683,Space Science,3.0,2009-10-22,inactive
+CartoSat 2,ISRO,India,PSLV C7,2007-01-10,LEO,634,Earth Observation: Optical Imaging,5.0,2012-01-10,inactive
+Worldview 1,Maxar Technologies Inc.,USA,Delta 2,2007-09-18,LEO,492,Earth Observation: Optical Imaging,7.25,2014-12-18,inactive
+USA 199,DoD/US Air Force,USA,Delta 2,2007-12-20,MEO,20230,Navigation/Global Positioning,10.0,2017-12-19,inactive
+Cosmos 2436,Ministry of Defense,Russia,Proton M,2007-12-25,MEO,19256,Navigation/Global Positioning,7.0,2014-12-25,inactive
+CartoSat 2A,ISRO,India,PSLV C9,2008-04-28,LEO,634,Earth Observation: Optical Imaging,5.0,2013-04-28,inactive
+Intelsat 25,Intelsat S.A.,USA,Ariane 5 ECA,2008-07-07,GEO,35786,Communications,16.0,2024-07-07,inactive
+SAR-Lupe 5,Armed Forces,Germany,Kosmos 3M,2008-07-22,LEO,488,Earth Observation: Radar Imaging,10.0,2018-07-22,inactive
+HJ-1A,NRSCC,China,Long March 2C,2008-09-05,LEO,646,Earth Observation: Optical Imaging,3.0,2011-09-06,inactive
+Ciel-2,Ciel Satellite Group,Canada,Proton M,2008-12-10,GEO,35785,Communications,15.0,2023-12-11,inactive
+Ibuki,JAXA,Japan,H2A,2009-01-23,LEO,669,Earth Observation: Earth Science,5.0,2014-01-23,inactive
+Express-AM44,Russian Satellite Communications Company,Russia,Proton M,2009-02-11,GEO,35991,Communications,12.0,2021-02-11,inactive
+Eutelsat 33E,EUTELSAT S.A.,Multinational,Ariane 5 ECA,2009-02-11,GEO,35786,Communications,15.0,2024-02-12,inactive
+Sicral 1B,Italian Defense Ministry/Telespazio,Italy,Zenit 3SL,2009-04-20,GEO,35795,Communications,12.0,2021-04-20,inactive
+Measat 3A,MEASAT Satellite Systems Sdn. Bhd.,Malaysia,Zenit 3SLB,2009-06-21,GEO,35758,Communications,15.0,2024-06-21,inactive
+AsiaSat-5,Asia Satellite Telecommunications Co. Ltd.,China,Breeze M,2009-08-11,GEO,35786,Communications,15.0,2024-08-11,inactive
+USA 206,DoD/US Air Force,USA,Delta 2,2009-08-17,MEO,20184,Navigation/Global Positioning,10.0,2019-08-17,inactive
+Optus D3,Optus Communications,Australia,Ariane 5,2009-08-21,GEO,35785,Communications,15.0,2024-08-21,inactive
+SMOS,ESA,ESA,Breeze KM,2009-11-02,LEO,760,Earth Observation: Earth Science,3.0,2012-11-02,inactive
+Proba 2,ESA,ESA,Breeze KM,2009-11-02,LEO,718,Technology Demonstration,2.0,2011-11-02,inactive
+Intelsat 15,Intelsat S.A./Sky Perfect JSAT Corp.,USA,Zenit 3SLB,2009-11-30,GEO,35787,Communications,17.0,2026-11-30,active
+Helios 2B,DGA,France/Italy/Belgium/Spain/Greece,Ariane 5,2009-12-18,LEO,680,Earth Observation: Optical Imaging,5.0,2014-12-18,inactive
+Cryosat-2,ESA,ESA,Dnepr,2010-04-08,LEO,718,Earth Observation: Radar Imaging,3.0,2013-04-08,inactive
+TanDEM-X,DLR/Astrium,Germany,Dnepr,2010-06-21,LEO,508,Earth Observation: Radar Imaging,5.0,2015-06-21,inactive
+AISSat-1,Norwegian Coastal Admnistration,Norway,PSLV,2010-07-12,LEO,624,Communications: Automatic Identification System (AIS),3.0,2013-07-12,inactive
+CartoSat 2B,ISRO,India,PSLV,2010-07-12,LEO,634,Earth Observation: Optical Imaging,5.0,2015-07-12,inactive
+QZS-1,JAXA,Japan,H2A,2010-09-11,GEO,35784,Navigation/Regional Positioning,15.0,2025-09-11,inactive
+BSAT-3B,Broadcasting Satellite System Corp.,Japan,Ariane 5 ECA,2010-10-28,GEO,34396,Communications,15.0,2025-10-28,inactive
+219,NASA/Partners,USA,Minotaur 4,2010-11-20,LEO,639,Space Science,0.5,2011-05-22,inactive
+Resourcesat 2,ISRO/exactEarth,India/Canada,PSLV C16,2011-04-20,LEO,820,Earth Observation: Optical Imaging,5.0,2016-04-19,inactive
+Youthsat,ISRO,India,PSLV C16,2011-04-20,LEO,813,Space Science,2.0,2013-04-19,inactive
+GSAT-8,ISRO,India,Ariane 5,2011-05-20,GEO,35789,Communications/Navigation,12.0,2023-05-20,inactive
+GSAT-12,ISRO,India,PSLV C17,2011-07-15,GEO,35786,Communications,8.0,2019-07-15,inactive
+BSAT-3C/JCSat 110-R,B-SAT/Sky Perfect JSAT,Japan,Ariane 5 ECA,2011-08-06,GEO,35786,Communications,15.0,2026-08-06,inactive
+Astra 1N,SES S.A.,Luxembourg,Ariane 5 ECA,2011-08-06,GEO,35748,Communications,15.0,2026-08-06,inactive
+NigeriaSat-2,NASRDA,Nigeria,Dnepr,2011-08-17,LEO,698,Earth Observation: Optical Imaging,7.0,2018-08-17,inactive
+Galileo IOV-1 FM2,ESA,ESA,Soyuz-Fregat,2011-10-21,MEO,23274,Navigation/Global Positioning,12.0,2023-10-21,inactive
+Galileo IOV-1 PFM,ESA,ESA,Soyuz-Fregat,2011-10-21,MEO,23273,Navigation/Global Positioning,12.0,2023-10-21,inactive
+IGS-7A,CSIC,Japan,H2A,2011-12-12,LEO,513,Earth Observation: Radar Imaging,5.0,2016-12-11,inactive
+NigComSat-1R,NigComSat,Nigeria,Long March 3B,2011-12-17,GEO,35794,Communications,15.0,2026-12-17,active
+Ziyuan 3,CRESDA,China,Long March 4B,2012-01-09,LEO,502,Earth Observation: Optical Imaging,4.0,2016-01-09,inactive
+Fengyun 2F,China Meteorological Administration,China,Long March 3A,2012-01-12,GEO,35788,Earth Observation: Earth Science,3.0,2015-01-12,inactive
+GCOM-1,JAXA,USA/Japan,H2A,2012-05-17,LEO,702,Earth Observation: Earth Science,5.0,2017-05-17,inactive
+SDS-4,JAXA,Japan,H2A,2012-05-17,LEO,667,Technology Development,2.0,2014-05-17,inactive
+NuSTAR,NASA,USA,Pegasus XL,2012-06-13,LEO,622,Space Science,2.0,2014-06-13,inactive
+MetOp-B,ESA/EUMETSAT,Multinational,Soyuz-2.1a,2012-09-17,LEO,820,Earth Observation: Earth Science/Meterology,5.0,2017-09-17,inactive
+VRSS-1,Bolivarian Agency for Space Activities,Venezuela,Long March 2D,2012-09-28,LEO,638,Earth Observation: Optical Imaging,5.0,2017-09-28,inactive
+Galileo IOV-2 FM3,ESA,ESA,Soyuz-Fregat,2012-10-12,MEO,23224,Navigation/Global Positioning,12.0,2024-10-12,inactive
+Galileo IOV-2 FM4,ESA,ESA,Soyuz-Fregat,2012-10-12,MEO,23222,Navigation/Global Positioning,12.0,2024-10-12,inactive
+Echostar 16,"Echostar Satellite Services, LLC",USA,Proton M,2012-11-20,GEO,35786,Communications,15.0,2027-11-21,active
+Göktürk 2,Turkish Ministry of National Defense,Turkey,Long March 2D,2012-12-18,LEO,680,Earth Observation: Optical Imaging,5.0,2017-12-18,inactive
+Skynet 5D,Ministry of Defense/Paradigm Secure Communications,United Kingdom,Ariane 5 ECA,2012-12-19,GEO,35790,Communications,15.0,2027-12-20,active
+Sapphire,Department of National Defense,Canada,PSLV,2013-02-25,LEO,780,Space Observation,5.0,2018-02-25,inactive
+Eutelsat 117 West A,EUTELSAT Americas,Multinational,Proton M,2013-03-26,GEO,35787,Communications,15.0,2028-03-26,active
+Zhongxing 11,China Satcom,China,Long March 3B,2013-05-01,GEO,35787,Communications,15.0,2028-05-01,active
+Proba 5,ESA,ESA,Vega,2013-05-07,LEO,816,Earth Observation: Earth Science,2.5,2015-11-06,inactive
+Resurs-P1,Russian Federal Space Agency,Russia,Soyuz-2.1b,2013-06-25,LEO,466,Earth Observation: Optical Imaging,3.0,2016-06-25,inactive
+IRIS,NASA,USA,L1011,2013-06-28,LEO,642,Space Science,2.0,2015-06-28,inactive
+IRNSS-1A,ISRO,India,PSLV,2013-07-01,GEO,35792,Navigation/Regional Positioning,12.0,2025-07-01,inactive
+INMARSAT 4-A F4,ESA,United Kingdom/ESA,Ariane 5 ECA,2013-07-25,GEO,35786,Communications/Technology Development,15.0,2028-07-25,active
+USA 244,Military Satellite Communications - US Air Force,USA,Delta 4,2013-08-08,GEO,35786,Communications,14.0,2027-08-09,active
+Kompsat-5,KARI,South Korea,Dnepr,2013-08-22,LEO,544,Earth Observation: Radar Imaging,5.0,2018-08-22,inactive
+USA 245,NRO,USA,Delta 4 Heavy,2013-08-28,LEO,627,Earth Observation: Optical Imaging,5.0,2018-08-28,inactive
+Cassiope,Canadian Space Agency,Canada,Falcon 9,2013-09-29,LEO,906,Earth Science,2.0,2015-09-29,inactive
+Sirius FM-6,Sirius XM Holdings,USA,Proton M,2013-10-25,GEO,35788,Communications,15.0,2028-10-25,active
+SWARM-A,ESA,ESA,Rokot,2013-11-22,LEO,474,Earth Observation: Earth Science,4.0,2017-11-22,inactive
+GSAT-14,ISRO,India,GSLV,2014-01-05,GEO,35786,Communications,12.0,2026-01-05,inactive
+TDRS-12,NASA,USA,Atlas 5,2014-01-23,GEO,35782,Communications,15.0,2029-01-23,active
+Express-AT1,Russian Satellite Communications Company,Russia,Proton M,2014-03-15,GEO,35792,Communications,15.0,2029-03-15,active
+IRNSS-1B,ISRO,India,PSLV,2014-04-04,GEO,35788,Navigation/Regional Positioning,12.0,2026-04-04,inactive
+Daichi-2,JAXA,Japan,H2A,2014-05-24,LEO,632,Earth Observation: Radar Imaging,7.0,2021-05-24,inactive
+OCO 2,NASA,USA,Delta 2,2014-07-02,LEO,702,Earth Observation: Earth Science,2.0,2016-07-01,inactive
+Optus 10,Optus Communications,Australia,Ariane 5 ECA,2014-09-11,GEO,35787,Communications,15.0,2029-09-11,active
+IRNSS-1C,ISRO,India,PSLV-XL,2014-10-15,GEO,35780,Navigation/Regional Positioning,12.0,2026-10-15,inactive
+ArSat 1,ArSat,Argentina,Ariane 5 ECA,2014-10-16,GEO,35786,Communications,15.0,2029-10-16,active
+SMAP,NASA,USA,Delta 2,2015-01-31,LEO,673,Earth Observation: Earth Science,3.0,2018-01-31,inactive
+INMARSAT 5 F2,"INMARSAT, Ltd.",United Kingdom,Proton M,2015-02-01,GEO,35786,Communications,15.0,2030-02-01,active
+Galileo FOC FM4,ESA,ESA,Soyuz-ST,2015-03-27,MEO,23368,Navigation/Global Positioning,12.0,2027-03-27,active
+Galileo FOC FM3,ESA,ESA,Soyuz-ST,2015-03-27,MEO,23545,Navigation/Global Positioning,12.0,2027-03-27,active
+IRNSS-1D,ISRO,India,PSLV-C27,2015-03-30,GEO,35766,Navigation/Regional Positioning,12.0,2027-03-30,active
+Gaofen 8,C41,China,Long March 4B,2015-06-26,LEO,488,Earth Observation: Optical Imaging,8.0,2023-06-26,inactive
+Star One C4,Embratel Star One,Brazil,Ariane 5 ECA,2015-07-15,GEO,35794,Communications,15.0,2030-07-15,active
+GSAT-6,ISRO,India,GSLV,2015-08-27,GEO,35775,Communications,12.0,2027-08-27,active
+Galileo FOC FM6,ESA,ESA,Soyuz-ST,2015-09-11,MEO,23230,Navigation/Global Positioning,12.0,2027-09-11,active
+Galileo FOC FM5,ESA,ESA,Soyuz-ST,2015-09-11,MEO,23229,Navigation/Global Positioning,12.0,2027-09-11,active
+Cosmos 2509,Ministry of Defense,Russia,Rokot,2015-09-23,LEO,1503,Communications,5.0,2020-09-22,inactive
+Galileo FOC FM9,ESA,ESA,Soyuz-ST,2015-12-17,MEO,23560,Navigation/Global Positioning,12.0,2027-12-17,active
+Galileo FOC FM8,ESA,ESA,Soyuz-ST,2015-12-17,MEO,23584,Navigation/Global Positioning,12.0,2027-12-17,active
+Belintersat-1,Belintersat,Belarus,Long March 3B,2016-01-15,GEO,35786,Communications,15.0,2031-01-15,active
+IRNSS-1E,ISRO,India,PSLV-XL,2016-01-20,GEO,35784,Navigation/Regional Positioning,12.0,2028-01-20,active
+IRNSS-1F,ISRO,India,PSLV-XL,2016-03-10,GEO,35787,Navigation/Regional Positioning,12.0,2028-03-10,active
+IRNSS-1G,ISRO,India,PSLV,2016-04-28,GEO,35786,Navigation/Regional Positioning,12.0,2028-04-28,active
+Galileo FOC FM10,ESA,ESA,Soyuz-ST,2016-05-24,MEO,23276,Navigation/Global Positioning,12.0,2028-05-24,active
+Galileo FOC FM11,ESA,ESA,Soyuz-ST,2016-05-24,MEO,23506,Navigation/Global Positioning,12.0,2028-05-24,active
+Thaicom-8,Thaicom Public Company Ltd.,Thailand,Falcon 9,2016-05-27,GEO,35866,Communications,15.0,2031-05-28,active
+CartoSat 2C,ISRO,India,PSLV XL,2016-06-22,LEO,510,Earth Observation: Optical Imaging,5.0,2021-06-22,inactive
+Gaofen 3,SOA,China,Long March 4C,2016-08-09,LEO,758,Earth Observation: Radar Imaging,8.0,2024-08-09,inactive
+INSAT 3DR,ISRO,India,GSLV Mk.2,2016-09-08,GEO,35786,Earth Observation: Meteorology,10.0,2026-09-08,inactive
+ScatSat-1,ISRO,India,PSLV,2016-09-26,LEO,724,Earth Observation: Meteorology/Earth Science,5.0,2021-09-26,inactive
+GSAT-18,ISRO,India,Ariane 5,2016-10-05,GEO,35794,Communications,15.0,2031-10-06,active
+Himawari 9,MSC,Japan,H2A,2016-11-02,GEO,35794,Earth Observation: Meteorology,8.0,2024-11-02,inactive
+Galileo FOC FM7,ESA,ESA,Ariane 5,2016-11-17,MEO,23285,Navigation/Global Positioning,12.0,2028-11-17,active
+Galileo FOC FM13,ESA,ESA,Ariane 5,2016-11-17,MEO,22982,Navigation/Global Positioning,12.0,2028-11-17,active
+USA 272,Military Satellite Communications - US Air Force,USA,Delta 4,2016-12-07,GEO,35770,Communications,14.0,2030-12-08,active
+Resourcesat 2A,ISRO,India,PSLV,2016-12-07,LEO,822,Earth Observation: Optical Imaging,5.0,2021-12-07,inactive
+Telkom 3S,PT Telkomunikasi,Indonesia,Ariane 5 ECA,2017-02-14,GEO,35788,Communications,18.0,2035-02-14,active
+ViaSat-2,"ViaSat, Inc.",USA,Ariane 5,2017-06-01,GEO,35786,Communications,14.0,2031-06-02,active
+GSAT-19E,ISRO,India,GSLV MK.3,2017-06-03,GEO,35786,Communications,10.0,2027-06-03,active
+CartoSat 2E,ISRO,India,PSLV,2017-06-22,LEO,340,Earth Observation: Optical Imaging,5.0,2022-06-22,inactive
+GSAT-17,ISRO,India,Ariane 5,2017-06-28,GEO,35787,Communications,15.0,2032-06-28,active
+Technosat,Technical University Berlin,Germany,Soyuz-2.1a,2017-07-14,LEO,596,Technology Demonstration,2.0,2019-07-14,inactive
+TDRS-13,NASA,USA,Atlas 5,2017-08-18,GEO,35784,Communications,15.0,2032-08-18,active
+QZS-3,JAXA,Japan,H2A,2017-08-19,GEO,35793,Navigation/Regional Positioning,15.0,2032-08-19,active
+BSAT-4A,Broadcasting Satellite System Corp.,Japan,Ariane 5,2017-09-29,GEO,35722,Communications,15.0,2032-09-29,active
+VRSS-2,Bolivarian Agency for Space Activities,Venezuela,Long March 2D,2017-10-09,LEO,642,Earth Observation: Optical Imaging,5.0,2022-10-09,inactive
+QZS-4,JAXA,Japan,H2A,2017-10-09,GEO,35782,Navigation/Regional Positioning,15.0,2032-10-09,active
+Galileo FOC FM17,ESA,ESA,Ariane 5,2017-12-13,MEO,22912,Navigation/Global Positioning,12.0,2029-12-13,active
+GCOM-C,JAXA,Japan,H2A,2017-12-22,LEO,792,Earth Observation,5.0,2022-12-22,inactive
+INS-1C,ISRO,India,PSLV,2018-01-11,LEO,502,Technology Development,0.5,2018-07-13,inactive
+CartoSat 2F,ISRO,India,PSLV,2018-01-11,LEO,502,Earth Observation: Optical Imaging,5.0,2023-01-11,inactive
+Al Yah-3,YAHSAT,United Arab Emirates,Ariane 5,2018-01-25,GEO,35786,Communications,15.0,2033-01-25,active
+S-Net-4,Technical University Berlin,Germany,Soyuz-2.1a,2018-01-31,LEO,580,Technology Development,1.0,2019-01-31,inactive
+HYLAS 4,"Avanti Communications, PLC",United Kingdom,Ariane 5,2018-04-05,GEO,35786,Communications,15.0,2033-04-05,active
+IRNSS-1I,ISRO,India,PSLV,2018-04-11,GEO,35787,Navigation/Regional Positioning,10.0,2028-04-10,active
+Bangabandhu 1,BTRC,Bangladesh,Falcon 9,2018-05-11,GEO,35786,Communications,15.0,2033-05-11,active
+Telstar 19 Vantage,"BCE, Inc.",Canada,Falcon 9,2018-07-22,GEO,35786,Communications,15.0,2033-07-22,active
+Galileo FOC FM20,ESA,ESA,Ariane 5 ES,2018-07-25,MEO,23119,Navigation/Global Positioning,12.0,2030-07-25,active
+Galileo FOC FM21,ESA,ESA,Ariane 5 ES,2018-07-25,MEO,22976,Navigation/Global Positioning,12.0,2030-07-25,active
+Merah Putih,PT Telkomunikasi,Indonesia,Falcon 9,2018-08-07,GEO,35793,Communications,16.0,2034-08-07,active
+Icesat-2,NASA,USA,Delta 2,2018-09-15,LEO,462,Earth Science: Laser Imaging,3.0,2021-09-15,inactive
+Beidou DW 37,Chinese Ministry of National Defense,China,Long March 3B,2018-09-19,MEO,21863,Navigation/Global Positioning,8.0,2026-09-19,inactive
+Azerspace 2/Intelsat-38,Azercosmos,Azerbaijan,Ariane 5 ECA,2018-09-25,GEO,35750,Communications,15.0,2033-09-25,active
+GSAT-29,ISRO,India,GSLV MK.3,2018-11-14,GEO,37794,Communications,10.0,2028-11-13,active
+HySIS,ISRO,India,PSLV,2018-11-29,LEO,648,Earth Observation: Hyperspectral Imaging,5.0,2023-11-29,inactive
+RAPIS-1,JAXA,Japan,Epsilon,2019-01-17,LEO,504,Technology Development,2.0,2021-01-16,inactive
+Jilin-1-9,Chang Guang Satellite Technology Co. Ltd.,China,Long March 11,2019-01-21,LEO,530,Earth Observation: Multispectral Imaging,3.0,2022-01-21,inactive
+GSAT-31,ISRO,India,Ariane 5,2019-02-05,GEO,35786,Communications,15.0,2034-02-05,active
+COSMIC 2-1,NOAA,Taiwan,Falcon Heavy,2019-06-25,LEO,715,Earth Observation: Meteorology,5.0,2024-06-24,inactive
+COSMIC 2-5,NOAA,Taiwan,Falcon Heavy,2019-06-25,LEO,716,Earth Observation: Meteorology,5.0,2024-06-24,inactive
+Intelsat 39,Intelsat S.A.,USA,Ariane 5,2019-08-06,GEO,35786,Communications,15.0,2034-08-06,active
+Ziyuan 1-2D,CRESDA,China,Long March 4B,2019-09-14,LEO,753,Earth Observation: Hyperspectral Imaging,5.0,2024-09-13,inactive
+Eutelsat 5 West B,EUTELSAT S.A.,Multinational,Proton,2019-10-09,GEO,35785,Communications,15.0,2034-10-09,active
+GSAT-30,ISRO,India,Ariane 5,2020-01-16,GEO,35819,Communications,15.0,2035-01-16,active
+IGS Optical 7,CSIC,Japan,H2A,2020-02-09,LEO,490,Earth Observation: Optical Imaging,5.0,2025-02-08,inactive
+JCSat 17,Sky Perfect JSAT Corporation,Japan,Ariane 5,2020-02-18,GEO,35786,Communications,15.0,2035-02-18,active
+Beidou DW 55,Chinese Ministry of National Defense,China,Long March 3B,2020-06-23,GEO,35786,Navigation/Global Positioning,8.0,2028-06-23,active
+PICASSO,ESA,ESA,Vega,2020-09-02,LEO,535,Technology Development,2.0,2022-09-02,inactive
+Sentinel 6,EUMETSAT,ESA,Falcon 9,2020-11-21,LEO,1318,Earth Observation: Earth Science,5.0,2025-11-21,inactive
+LUCAS,JAXA,Japan,H2A,2020-11-29,GEO,35786,Communications,10.0,2030-11-29,active
+Tiantong-1-03,China Telecom,China,Long March 3B,2021-01-19,GEO,35786,Communications,15.0,2036-01-20,active
+GRUS-1E,Axelspace,Japan,Soyuz-2.1a,2021-03-22,LEO,591,Earth Observation: Optical Imaging,5.0,2026-03-22,inactive
+Gaofen 12-02,CNSAS,China,Long March 4C,2021-03-30,LEO,636,Earth Observation: Optical Imaging,8.0,2029-03-30,active
+Gaofen 5-02,CNSAS,China,Long March 4C,2021-09-06,LEO,692,Earth Observation: Hyperspectral Imaging,8.0,2029-09-06,active
+QZS-1R,JAXA,Japan,H2A,2021-10-26,GEO,35806,Navigation/Regional Positioning,15.0,2036-10-26,active
+Gaofen 3-02,"China Ministry of Land and Resources",China,Long March 4B,2021-11-22,LEO,741,Earth Observation: Radar Imaging,8.0,2029-11-22,active
+Galileo FOC FM24,ESA,ESA,Soyuz-ST,2021-12-05,MEO,23543,Navigation/Global Positioning,12.0,2033-12-05,active
+STPSat-6,Atlas 5,USA,Atlas 5,2021-12-07,GEO,36104,Technology Demonstration,2.0,2023-12-07,inactive
+INMARSAT 6 F1,"INMARSAT, Ltd.",United Kingdom,H2A,2021-12-22,GEO,35786,Communications,15.0,2036-12-22,active
+COSMO-Skymed FM2,Italian Space Agency/Ministry of Defense,Italy,Falcon 9,2022-01-31,LEO,634,Earth Observation: Radar Imaging,5.0,2027-01-31,active
+EOS-1,ISRO,India,PSLV-XL,2022-02-14,LEO,528,Earth Observation: Radar Imaging,10.0,2032-02-14,active
+Zhongxing 6D,China Satcom,China,Long March 3B,2022-04-15,GEO,35786,Communications,15.0,2037-04-15,active
+E-Space 3,ESPACE,USA,Electron,2022-05-02,LEO,528,Technology Development,1.0,2023-05-02,inactive
+GeeSat 5-03,Geespace,China,Long March 2,2022-06-02,LEO,618,Earth Observation/Navigation,5.0,2027-06-02,active
+GeeSat 5-01,Geespace,China,Long March 2,2022-06-02,LEO,618,Earth Observation/Navigation,5.0,2027-06-02,active
+GSAT-24,ISRO,India,Ariane 5,2022-06-22,GEO,35792,Communications,15.0,2037-06-22,active
+WFOV Testbed,US Space Force,USA,Atlas 5,2022-07-01,LEO,36290,Technology Development,3.0,2025-07-01,inactive
+Ñt-32,Satellogic S.A.,Argentina,Falcon 9,2023-01-03,LEO,529,Earth Observation,3.0,2026-01-03,inactive
+Ñt-35,Satellogic S.A.,Argentina,Falcon 9,2023-01-03,LEO,529,Earth Observation,3.0,2026-01-03,inactive
+Tianmu-1 03,Xiyong Microelectrics Park,China,Kuaizhou 1A,2023-03-22,LEO,510,Meteorological,2.0,2025-03-21,inactive
