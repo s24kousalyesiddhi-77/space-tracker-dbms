@@ -3,10 +3,11 @@
 ## Run it
 1. Install MySQL 8 and MySQL Workbench.
 2. In Workbench: File > Open SQL Script > `schema.sql` > run all (lightning icon).
-3. Then open `queries.sql` and run each query one at a time (screenshots for your report).
-4. Install Python 3.9+ then: `pip install -r requirements.txt`
-5. Open `app.py` and set your MySQL password in the `DB` line.
-6. Run: `streamlit run app.py` (opens in your browser).
+3. Run import_real_data.sql after schema.sql.
+4. Then open `queries.sql` and run each query one at a time (screenshots for your report).
+5. Install Python 3.9+ then: `pip install -r requirements.txt`
+6. Open `app.py` and set your MySQL password in the `DB` line.
+7. Run: `streamlit run app.py` (opens in your browser).
 
 ## Files
 - schema.sql: tables, sample data, view, triggers
